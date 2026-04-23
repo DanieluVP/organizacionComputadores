@@ -1,6 +1,10 @@
-## Organización de computadores
-## Proyecto 2
-## 2026-1
-## Integrantes proyecto 2
-## [Daniel Urbano Viana Polo]
-## [Juan David Mendiola Rios]
+# Organización de Computadores  
+## Proyecto 2  
+### 2026-1
+
+---
+
+## Integrantes
+
+- Daniel Urbano Viana Polo
+- Juan David Mendiola Ríos
