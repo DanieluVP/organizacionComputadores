@@ -1,5 +1,6 @@
 # Contribución de Miembros
 
 | Nombre | Rol | Tareas Asignadas | % Contrib |
-|--------|-----|-----------------|-----------|
-| Tu Nombre | Líder/Dev | Diseño ALU, comandos, pruebas | 100% |
+|--------|-----|------------------|-----------|
+| Daniel Urbano Viana Polo | Co-desarrollador | Diseño, implementación y pruebas | 50% |
+| Juan David Mendiola Ríos | Co-desarrollador | Diseño, implementación y pruebas | 50% |
