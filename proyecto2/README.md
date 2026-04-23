@@ -1,2 +1,7 @@
-# Organización de Computadores
-## Proyecto 2: Nuevos comandos para la ALU
+*Organización de computadores**
+**Proyecto 2**
+2
+** 2026-1**
+**Integrantes proyecto 2**
+[Daniel Urbano Viana Polo]
+[Juan David Mendiola Rios]
